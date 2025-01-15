@@ -14,6 +14,8 @@
 
 ## 🚀 About Me
 
+## 🎯 Projects
+
 ## 🛠️ My skills
   <table align=center>
      <td>
@@ -79,9 +81,6 @@
         </table>
     </td>
   </table>
-
-## 🎯 Projects
-
 
 ## 📊 GitHub Stats
 <div align=center>
