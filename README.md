@@ -75,7 +75,7 @@
                 <td><p>git</p></td>
                 <td><p>Notion</p></td>
             </tr>
-            /tbody>
+            </tbody>
         </table>
     </td>
   </table>
