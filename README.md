@@ -1,4 +1,4 @@
-<h1 align=center>👋 Hi! I'm Rubén Pinazo</h1>
+<!--<h1 align=center>👋 Hi! I'm Rubén Pinazo</h1> -->
 
 <div align=center>
   <img src=https://github.com/user-attachments/assets/755b175a-f322-46ff-b831-55814f8df693 align=center>
@@ -13,6 +13,11 @@
 </p>
 
 ## 🚀 About Me
+- 📚 Student at **42Málaga**
+- 💻 Learning Web Development
+- 🎯 My current goal is to improve my programming logic and build challenging projects
+- 🛠️ Always eager to explore new topics and skills
+- 💡 Interested in tackling tech challenges and finding creative solutions
 
 ## 🎯 Projects
 
@@ -89,15 +94,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenpr13&layout=compact&theme=radical" alt=LenguagesUsed>
 </div>
 
-
-## 🌟 Contact whit me!!
-- 💌 [Email](mailto:rubenpinazorobles@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/rubenpinazorobles)
-
----
-
 ¡Thanks for looking my profile! ✨ 
 
 <div align=center>
   <img src=https://github.com/user-attachments/assets/ed0f2267-862f-4877-8a44-2008fae94c2b alt=logo align=center heigth=100 width=100> 
+</div>
+
+<div>
+  <div>
+    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
+  </div>
+  <div>
+    <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white>
+  </div>
+  <div>
+    <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
+  </div>
 </div>
