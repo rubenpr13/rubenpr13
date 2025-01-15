@@ -94,8 +94,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenpr13&layout=compact&theme=radical" alt=LenguagesUsed>
 </div>
 
-¡Thanks for looking my profile! ✨ 
-
 <div align=center>
   <img src=https://github.com/user-attachments/assets/ed0f2267-862f-4877-8a44-2008fae94c2b alt=logo align=center heigth=100 width=100> 
 </div>
