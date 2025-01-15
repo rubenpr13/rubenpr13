@@ -85,9 +85,9 @@
 
 ## 📊 GitHub Stats
 <div align=center>
-  <img src=https://github-readme-stats.vercel.app/api?username=rubenpr13&show_icons=true&theme=radical alt=statsGithub >
+  <img src="https://github-readme-stats.vercel.app/api?username=rubenpr13&show_icons=true&theme=radical" alt=GitHubStats>
   <br>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rubenpr13&layout=compact&theme=radical>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenpr13&layout=compact&theme=radical" alt=LenguagesUsed>
 </div>
 
 
