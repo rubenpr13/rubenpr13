@@ -1,7 +1,9 @@
 <h1 align=center>👋 Hi! I'm Rubén Pinazo</h1>
 
-<img align=center>![banner_ruben](https://github.com/user-attachments/assets/755b175a-f322-46ff-b831-55814f8df693)
-</img>
+<div align=center>
+  <img src=https://github.com/user-attachments/assets/755b175a-f322-46ff-b831-55814f8df693 align=center>
+</div>
+
 
 
 <br>
@@ -82,9 +84,12 @@
 
 
 ## 📊 GitHub Stats
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rubenpr13&show_icons=true&theme=radical)
-<br/>
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenpr13&layout=compact&theme=radical)
+<div align=center>
+  <img src=https://github-readme-stats.vercel.app/api?username=rubenpr13&show_icons=true&theme=radical alt=statsGithub >
+  <br>
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rubenpr13&layout=compact&theme=radical>
+</div>
+
 
 ## 🌟 Contact whit me!!
 - 💌 [Email](mailto:rubenpinazorobles@gmail.com)
@@ -93,3 +98,7 @@
 ---
 
 ¡Thanks for looking my profile! ✨ 
+
+<div align=center>
+  <img src=https://github.com/user-attachments/assets/ed0f2267-862f-4877-8a44-2008fae94c2b alt=logo align=center heigth=100 width=100> 
+</div>
