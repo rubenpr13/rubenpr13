@@ -1,10 +1,13 @@
-<img></img>
-<h1 align=center>👋 Hi! I'm Rubén Pinazo robles</h1>
+<h1 align=center>👋 Hi! I'm Rubén Pinazo</h1>
+
+<img align=center>![banner_ruben](https://github.com/user-attachments/assets/755b175a-f322-46ff-b831-55814f8df693)
+</img>
+
 
 <br>
 
 <p align=center>
-  <strong>I'm a 42Malaga student apasionate at Web Development and the Tecnology. I'm looking for learning new technologies and lenguages for become a great Web Developer</strong>
+  <strong>I'm a 42Malaga student apasionate at Web Development and the Tecnology. I'm looking for learning new technologies and lenguages for become a great Full-Stack Web Developer</strong>
 </p>
 
 ## 🚀 About Me
